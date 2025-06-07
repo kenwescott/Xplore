@@ -1,38 +1,41 @@
-.App {
-  text-align: center;
+/* App.css */
+
+.custom-navbar {
+  padding: 1.5rem 2rem;
+  background-color: transparent;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.brand-title {
+  font-family: 'Aboreto', sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  color: black;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.nav-links .nav-link {
+  font-family: 'Aboreto', sans-serif;
+  font-size: 1.25rem;
+  color: black;
+  margin-right: 1.5rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.nav-links .nav-link:hover {
+  color: #007bff;
+}
+
+.sign-in-btn {
+  font-family: 'Aboreto', sans-serif;
+  background-color: black;
   color: white;
+  font-size: 1.1rem;
+  padding: 0.5rem 1.5rem;
+  border-radius: 12px;
+  border: none;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+@media (max-width: 991px) {
+  .sign-in-btn {
+    margin-top: 1rem;
+    width: 100%;
   }
 }
