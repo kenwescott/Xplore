@@ -2,7 +2,9 @@ import DestinationCard from '../Components/DestinationCard';
 import React, { useState } from 'react';
 import BackgroundCarousel from '../Components/BackgroundCarrousel';
 import SearchForm from '../Components/SearchForm';
+import HelpSection from '../Components/HelpSection';
 import './Home.css';
+import Footer from '../Components/Footer';
 
 const destinations = [
   {
@@ -102,6 +104,9 @@ function Home() {
         </button>
       </div>
 
+      <HelpSection />
+
+      <Footer/>
 
     </div>
   );
