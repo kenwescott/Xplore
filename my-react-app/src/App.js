@@ -10,7 +10,6 @@ function App() {
       <NavigationBar /> {/* Sticky navbar on top */}
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/destination" element={<Destination />} />
         <Route path="/book" element={<Book />} />
       </Routes>
     </Router>

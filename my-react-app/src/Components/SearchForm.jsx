@@ -21,7 +21,7 @@ function SearchForm() {
         <Row className="mb-3">
           <Col md={4}>
             <Form.Group controlId="formFrom">
-              <Form.Label>From</Form.Label>
+              <Form.Label> From</Form.Label>
               <Form.Control
                 type="text"
                 placeholder="Departure city"
