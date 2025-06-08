@@ -1,0 +1,132 @@
+/*.body {
+  position: relative;
+  width: 100%;
+  overflow-x: hidden;
+  background-color: #fff;
+}
+
+.search-form-wrapper {
+  position: relative;
+  top: 370px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2; /* Above carousel *//*
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  pointer-events: auto;
+}
+
+.carousel-overlay-text {
+  position: absolute;
+  top: 200px;             /* adjust to be just below navbar */
+  /*left: 50px;            /* left aligned with some margin */
+  /*z-index: 2;            /* above carousel */
+  /*color: white;          /* visible on images */
+  /*font-family: 'Aboreto', cursive;
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.7); /* for contrast */
+  /*max-width: 600px;
+  user-select: none;
+}
+
+@media (max-width: 768px) {
+  .carousel-overlay-text {
+    font-size: 1.8rem;
+    left: 20px;
+    top: 60px;
+    max-width: 90%;
+  }
+}
+
+.carousel-container {
+  position: absolute; /* This is crucial */
+  /*width: 100%;
+  height: 550px; /* same height as your carousel */
+  /*overflow:hidden; /* allow overlays */
+/*}
+
+.background-carousel {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 550px; /* your carousel height */
+ /* z-index: 0;
+}
+.section-heading {
+  top:800px;
+  padding: 60px 50px 20px 50px;
+  text-align: left;
+  font-family: 'Aboreto', cursive;
+  font-size: 1.8rem;
+  color: #333;
+}*/
+.body {
+  position: relative;
+  width: 100%;
+  overflow-x: hidden;
+  background-color: #fff;
+}
+
+/* Carousel stays in normal flow */
+.carousel-container {
+  position: relative;
+  width: 100%;
+  height: 550px;
+  overflow: hidden;
+}
+
+/* Carousel image is already full width in BackgroundCarousel */
+.background-carousel {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Overlay text on top of carousel */
+.carousel-overlay-text {
+  position: absolute;
+  top: 200px;
+  left: 50px;
+  z-index: 2;
+  color: white;
+  font-family: 'Aboreto', cursive;
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.7);
+  max-width: 600px;
+  user-select: none;
+}
+
+@media (max-width: 768px) {
+  .carousel-overlay-text {
+    font-size: 1.8rem;
+    left: 20px;
+    top: 60px;
+    max-width: 90%;
+  }
+}
+
+/* Search form below carousel */
+.search-form-wrapper {
+  margin-top: -140px;
+  display: flex;
+  justify-content: center;
+  padding: 0 20px;
+  position: relative;
+  z-index:2;
+}
+
+/* Section heading below form */
+.section-heading {
+  margin-top: 60px;
+  padding: 0 50px;
+  text-align: left;
+  font-family: 'Aboreto', cursive;
+  font-size: 1.8rem;
+  color: #333;
+}
+
+

@@ -1,0 +1,19 @@
+/* BackgroundCarousel.css */
+
+.BackgroundCarousel {
+  width: 100%;
+  height: 550px;
+  overflow: hidden;
+  position: absolute; /* Makes it a background */
+  top: 0;
+  left: 0;
+  z-index: 0; /* Behind navbar and text */
+}
+
+.Carrousel-image {
+  width: 100%;
+  height: 550px;
+  object-fit: cover;
+}
+
+
