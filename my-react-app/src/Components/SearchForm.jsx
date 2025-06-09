@@ -1,6 +1,7 @@
 // src/Components/SearchForm.jsx
 import { useState } from 'react';
 import { Form, Row, Col, Button, Container } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 
 function SearchForm() {
   const [from, setFrom] = useState('');
@@ -98,7 +99,7 @@ function SearchForm() {
         </Row>
 
         <div className="text-end">
-          <Button variant="dark" onClick={handleSearch}>
+          <Button variant="dark" as={Link} to="/destination">
             Search Flights
           </Button>
         </div>

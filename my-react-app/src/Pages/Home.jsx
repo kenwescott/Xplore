@@ -105,7 +105,6 @@ function Home() {
       </div>
 
       <HelpSection />
-
       <Footer/>
 
     </div>

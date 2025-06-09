@@ -3,44 +3,76 @@
   "WorkspaceRootPath": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Pages\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Destination.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Pages\\Destination.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\DestinationCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Components\\DestinationCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Destination.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Pages\\Destination.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\DestinationCard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Components\\DestinationCard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\PayMentComplete.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Pages\\PayMentComplete.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\BackgroundCarrousel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Components\\BackgroundCarrousel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Pages\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Pages\\Home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\Navigationbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Components\\Navigationbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\NavigationBar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Components\\NavigationBar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Book.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Pages\\Book.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Payment.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Pages\\Payment.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\PaymentComplete.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Pages\\PaymentComplete.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\Footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Components\\Footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Book.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Pages\\Book.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\SearchForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Components\\SearchForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\NavigationBar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Components\\NavigationBar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\Navigationbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Components\\Navigationbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\DestinationCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Components\\DestinationCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Payment.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Pages\\Payment.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\HelpSection.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Components\\HelpSection.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\BackgroundCarrousel.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -49,22 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\SearchForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Components\\SearchForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Book.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Pages\\Book.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Destination.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Pages\\Destination.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\HelpSection.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-react-app\\src\\Components\\HelpSection.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\Footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -78,19 +94,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.css",
+              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Book.css",
+              "RelativeDocumentMoniker": "my-react-app\\src\\Pages\\Book.css",
+              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Book.css",
+              "RelativeToolTip": "my-react-app\\src\\Pages\\Book.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-09T02:05:21.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "BackgroundCarrousel.css",
+              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\BackgroundCarrousel.css",
+              "RelativeDocumentMoniker": "my-react-app\\src\\Components\\BackgroundCarrousel.css",
+              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\BackgroundCarrousel.css",
+              "RelativeToolTip": "my-react-app\\src\\Components\\BackgroundCarrousel.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-09T02:01:02.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PaymentComplete.jsx",
               "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\PaymentComplete.jsx",
               "RelativeDocumentMoniker": "my-react-app\\src\\Pages\\PaymentComplete.jsx",
               "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\PaymentComplete.jsx",
               "RelativeToolTip": "my-react-app\\src\\Pages\\PaymentComplete.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-06-08T23:41:31.412Z",
+              "WhenOpened": "2025-06-09T01:50:22.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Destination.css",
+              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Destination.css",
+              "RelativeDocumentMoniker": "my-react-app\\src\\Pages\\Destination.css",
+              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Destination.css",
+              "RelativeToolTip": "my-react-app\\src\\Pages\\Destination.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-09T01:37:26.448Z",
               "EditorCaption": ""
             },
             {
@@ -101,33 +156,20 @@
               "RelativeDocumentMoniker": "my-react-app\\src\\Pages\\Payment.jsx",
               "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Payment.jsx",
               "RelativeToolTip": "my-react-app\\src\\Pages\\Payment.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwDoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-06-08T23:01:35.519Z",
+              "WhenOpened": "2025-06-09T01:07:43.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NavigationBar.jsx",
-              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\NavigationBar.jsx",
-              "RelativeDocumentMoniker": "my-react-app\\src\\Components\\NavigationBar.jsx",
-              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\NavigationBar.jsx",
-              "RelativeToolTip": "my-react-app\\src\\Components\\NavigationBar.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-06-08T15:46:24.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Home.jsx",
               "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Home.jsx",
               "RelativeDocumentMoniker": "my-react-app\\src\\Pages\\Home.jsx",
               "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Home.jsx",
               "RelativeToolTip": "my-react-app\\src\\Pages\\Home.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-06-08T15:44:46.131Z",
               "EditorCaption": ""
@@ -135,40 +177,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Book.jsx",
-              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Book.jsx",
-              "RelativeDocumentMoniker": "my-react-app\\src\\Pages\\Book.jsx",
-              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Book.jsx",
-              "RelativeToolTip": "my-react-app\\src\\Pages\\Book.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-06-08T15:43:38.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "App.js",
               "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\App.js",
               "RelativeDocumentMoniker": "my-react-app\\src\\App.js",
               "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\App.js",
               "RelativeToolTip": "my-react-app\\src\\App.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-06-08T15:40:25.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DestinationCard.jsx",
-              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\DestinationCard.jsx",
-              "RelativeDocumentMoniker": "my-react-app\\src\\Components\\DestinationCard.jsx",
-              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\DestinationCard.jsx",
-              "RelativeToolTip": "my-react-app\\src\\Components\\DestinationCard.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Destination.jsx",
+              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Destination.jsx",
+              "RelativeDocumentMoniker": "my-react-app\\src\\Pages\\Destination.jsx",
+              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Destination.jsx",
+              "RelativeToolTip": "my-react-app\\src\\Pages\\Destination.jsx",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-06-08T17:35:35.283Z",
+              "WhenOpened": "2025-06-08T15:43:39.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.css",
+              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Home.css",
+              "RelativeDocumentMoniker": "my-react-app\\src\\Pages\\Home.css",
+              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Home.css",
+              "RelativeToolTip": "my-react-app\\src\\Pages\\Home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-08T15:43:39.977Z",
               "EditorCaption": ""
             },
             {
@@ -179,53 +221,131 @@
               "RelativeDocumentMoniker": "my-react-app\\src\\Components\\DestinationCard.css",
               "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\DestinationCard.css",
               "RelativeToolTip": "my-react-app\\src\\Components\\DestinationCard.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-06-08T17:35:34.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "Footer.css",
+              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\Footer.css",
+              "RelativeDocumentMoniker": "my-react-app\\src\\Components\\Footer.css",
+              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\Footer.css",
+              "RelativeToolTip": "my-react-app\\src\\Components\\Footer.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-09T01:44:48.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.jsx",
+              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Book.jsx",
+              "RelativeDocumentMoniker": "my-react-app\\src\\Pages\\Book.jsx",
+              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Book.jsx",
+              "RelativeToolTip": "my-react-app\\src\\Pages\\Book.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-08T15:43:38.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DestinationCard.jsx",
+              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\DestinationCard.jsx",
+              "RelativeDocumentMoniker": "my-react-app\\src\\Components\\DestinationCard.jsx",
+              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\DestinationCard.jsx",
+              "RelativeToolTip": "my-react-app\\src\\Components\\DestinationCard.jsx",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-08T17:35:35.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Payment.css",
+              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Payment.css",
+              "RelativeDocumentMoniker": "my-react-app\\src\\Pages\\Payment.css",
+              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Payment.css",
+              "RelativeToolTip": "my-react-app\\src\\Pages\\Payment.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-09T01:07:41.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NavigationBar.jsx",
+              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\NavigationBar.jsx",
+              "RelativeDocumentMoniker": "my-react-app\\src\\Components\\NavigationBar.jsx",
+              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\NavigationBar.jsx",
+              "RelativeToolTip": "my-react-app\\src\\Components\\NavigationBar.jsx",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-08T15:46:24.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Navigationbar.css",
               "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\Navigationbar.css",
               "RelativeDocumentMoniker": "my-react-app\\src\\Components\\Navigationbar.css",
               "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\Navigationbar.css",
               "RelativeToolTip": "my-react-app\\src\\Components\\Navigationbar.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-06-08T15:52:49.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Home.css",
-              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Home.css",
-              "RelativeDocumentMoniker": "my-react-app\\src\\Pages\\Home.css",
-              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Home.css",
-              "RelativeToolTip": "my-react-app\\src\\Pages\\Home.css",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-08T15:43:39.977Z",
+              "DocumentIndex": 12,
+              "Title": "SearchForm.jsx",
+              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\SearchForm.jsx",
+              "RelativeDocumentMoniker": "my-react-app\\src\\Components\\SearchForm.jsx",
+              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\SearchForm.jsx",
+              "RelativeToolTip": "my-react-app\\src\\Components\\SearchForm.jsx",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-08T15:38:27.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
+              "Title": "HelpSection.jsx",
+              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\HelpSection.jsx",
+              "RelativeDocumentMoniker": "my-react-app\\src\\Components\\HelpSection.jsx",
+              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\HelpSection.jsx",
+              "RelativeToolTip": "my-react-app\\src\\Components\\HelpSection.jsx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-08T15:44:28.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "BackgroundCarrousel.jsx",
               "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\BackgroundCarrousel.jsx",
               "RelativeDocumentMoniker": "my-react-app\\src\\Components\\BackgroundCarrousel.jsx",
               "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\BackgroundCarrousel.jsx",
               "RelativeToolTip": "my-react-app\\src\\Components\\BackgroundCarrousel.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-06-08T16:27:06.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "App.css",
               "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\App.css",
               "RelativeDocumentMoniker": "my-react-app\\src\\App.css",
@@ -238,31 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Destination.jsx",
-              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Destination.jsx",
-              "RelativeDocumentMoniker": "my-react-app\\src\\Pages\\Destination.jsx",
-              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Destination.jsx",
-              "RelativeToolTip": "my-react-app\\src\\Pages\\Destination.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-06-08T15:43:39.186Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HelpSection.jsx",
-              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\HelpSection.jsx",
-              "RelativeDocumentMoniker": "my-react-app\\src\\Components\\HelpSection.jsx",
-              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\HelpSection.jsx",
-              "RelativeToolTip": "my-react-app\\src\\Components\\HelpSection.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-06-08T15:44:28.203Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Footer.jsx",
               "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\Footer.jsx",
               "RelativeDocumentMoniker": "my-react-app\\src\\Components\\Footer.jsx",
@@ -271,31 +367,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-06-08T16:59:35.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Book.css",
-              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Book.css",
-              "RelativeDocumentMoniker": "my-react-app\\src\\Pages\\Book.css",
-              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Pages\\Book.css",
-              "RelativeToolTip": "my-react-app\\src\\Pages\\Book.css",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwDAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-08T17:04:13.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SearchForm.jsx",
-              "DocumentMoniker": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\SearchForm.jsx",
-              "RelativeDocumentMoniker": "my-react-app\\src\\Components\\SearchForm.jsx",
-              "ToolTip": "D:\\School files\\Summer 2025\\UI\\Storefront Repo\\Xplore\\my-react-app\\src\\Components\\SearchForm.jsx",
-              "RelativeToolTip": "my-react-app\\src\\Components\\SearchForm.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-06-08T15:38:27.207Z",
-              "EditorCaption": ""
             }
           ]
         }

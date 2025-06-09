@@ -2,10 +2,11 @@ import React, { useState } from 'react';
 import { Row, Col, Container, Button, Form } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import './Payment.css';
-
+import Footer from '../Components/Footer';
 function Payment() {
 
     return(
+        <div>
         <Container>
         <Container className="containerColor">
             <Row>
@@ -60,6 +61,8 @@ function Payment() {
             <Button variant="dark" size="md" className="mt-4" as={Link} to="/paymentComplete">Pay Now</Button>
             </Row>
         </Container>
+        <Footer />
+        </div>
 
     )
     }

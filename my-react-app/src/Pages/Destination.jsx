@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 import { Container, Row, Col, Form } from 'react-bootstrap';
 import DestinationCard from '../Components/DestinationCard';
-
+import Footer from '../Components/Footer';
+import "./Destination.css"
 // Sample data (replace or fetch dynamically)
 const allDestinations = [
   {
@@ -45,16 +46,17 @@ function DestinationPage() {
 
   return (
     
-
-    <Container fluid className="py-5 px-4">
+      <div>
       <div className="destination-hero d-flex align-items-center mb-5">
-  <div className="hero-image flex-shrink-0">
-    <img src="/images/Travelpath.jpg" alt="Travel" />
+  <div className="hero-image flex-shrink-0 ms-5">
+      <img src="/images/Travelpath.jpg" alt="Travel" />
   </div>
   <div className="hero-text ms-4">
     <h1>Where are we going next?</h1>
   </div>
-</div>
+      </div>
+    <Container fluid className="py-5 px-4">
+   
 
       <Row>
         {/* LEFT: Filters */}
@@ -104,7 +106,10 @@ function DestinationPage() {
           )}
         </Col>
       </Row>
+      
     </Container>
+    <Footer/>
+    </div>
   );
 }
 
