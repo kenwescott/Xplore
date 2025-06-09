@@ -1,6 +1,8 @@
 {
   "name": "my-react-app",
   "version": "0.1.0",
+  "homepage": "/my-react-app",
+
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
