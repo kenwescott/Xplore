@@ -109,7 +109,7 @@ const DATA = [
 
 function Book() {
     const [startIndex, setStartIndex] = useState(0);
-  const cardsPerPage = 3;
+  const cardsPerPage = 2;
 
   const handleNext = () => {
     const nextIndex = startIndex + cardsPerPage;

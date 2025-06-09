@@ -2,6 +2,7 @@
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 import './DestinationCard.css'; 
+import { Link } from 'react-router-dom';
 
 function DestinationCard({ imageUrl, title, price, description }) {
   return (
@@ -19,7 +20,7 @@ function DestinationCard({ imageUrl, title, price, description }) {
           <Card.Text>{description}</Card.Text>
         </div>
         <div className="d-flex justify-content-end">
-          <Button variant="dark" size="sm">Book Now</Button>
+          <Button variant="dark" size="sm" as={Link} to="/payment">Book Now</Button>
         </div>
       </Card.Body>
     </Card>
