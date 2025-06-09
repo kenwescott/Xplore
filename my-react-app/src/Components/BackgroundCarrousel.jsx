@@ -8,7 +8,7 @@ function BackgroundCarousel() {
         <Carousel.Item>
           <img
             className="d-block w-100 carousel-image"
-            src="/images/slide1.jpg" 
+            src="/images/slide1.webp" 
             alt="Slide 1"
           />
         </Carousel.Item>
