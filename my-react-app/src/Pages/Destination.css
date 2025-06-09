@@ -10,7 +10,7 @@
   overflow: hidden; /* Ensures no overflow from tall images */
 }
 
-.hero-image img {
+.hero-image img{
   width: 100%;
   max-width: 300px;
   height: 100%; /* fill the container height */
@@ -19,7 +19,7 @@
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 
-.hero-text h1 {
+.hero-text h1{
   font-size: 3rem;
   font-weight: 700;
   font-family: 'Aboreto', cursive; /* your custom font */
