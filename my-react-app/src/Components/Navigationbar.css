@@ -1,21 +1,18 @@
-/* NavigationBar.css */
-/* Apply Aboreto font to brand and nav links */
-.navbar-brand,
-.navbar-nav .nav-link {
-  font-family: 'Aboreto';
-}
 
 .navbar-brand {
-  font-size: 1.8rem;
-  font-weight: 500;
+    font-family: 'Aboreto';
+    font-size: 3rem;
 }
+
 
 .navbar-nav .nav-link {
-  font-size: 1.1rem;
-  letter-spacing: 0.5px;
+    font-size: 1.3rem;
+    font-family: 'Aboreto';
+    font-weight: 1000;
+    letter-spacing: 0.5px;
 }
 
-.signin-btn {
+/*.signin-btn {
   background-color: black;
   color: white;
   border: 1px solid black;
@@ -26,4 +23,4 @@
   background-color: white;
   color: black;
   border: 1px solid black;
-}
+}*/

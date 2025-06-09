@@ -75,7 +75,7 @@ function Home() {
         </div>
       </div>
 
-      {/* Search form (NOT inside carousel) */}
+      {/* Search form*/}
       <div className="search-form-wrapper">
         <SearchForm />
       </div>
