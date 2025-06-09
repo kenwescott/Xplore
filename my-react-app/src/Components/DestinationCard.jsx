@@ -3,8 +3,22 @@ import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 import './DestinationCard.css'; 
 import { Link } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 
 function DestinationCard({ imageUrl, title, price, description }) {
+  const navigate = useNavigate();
+
+  const handleBookNow = () => {
+    navigate(`/book/${encodeURIComponent(title.toLowerCase())}`, {
+      state: {
+        title,
+        price,
+        description,
+        imageUrl
+      }
+    });
+  };
+
   return (
     <Card style={{ width: '18rem', minHeight: '26rem' }} className="m-3 shadow-sm">
       <Card.Img
