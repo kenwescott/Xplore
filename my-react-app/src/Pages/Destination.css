@@ -1,12 +1,20 @@
+
 .destination-hero {
-  margin-top: 100px; /* leaves space for navbar */
-  padding: 20px 0;
+  margin-top: 100px; /* space for navbar */
+  padding: 20px;
+  height: 400px; /* Set fixed height */
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 2rem;
+  overflow: hidden; /* Ensures no overflow from tall images */
 }
 
 .hero-image img {
   width: 100%;
   max-width: 300px;
-  height: 500px;
+  height: 100%; /* fill the container height */
+  object-fit: cover;
   border-radius: 12px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
@@ -14,15 +22,18 @@
 .hero-text h1 {
   font-size: 3rem;
   font-weight: 700;
-  font-family: 'Aboreto', cursive;
+  font-family: 'Aboreto', cursive; /* your custom font */
   color: #333;
   max-width: 600px;
+  margin: 0; /* avoid Bootstrap margin inheritance */
 }
 
+/* Responsive adjustments */
 @media (max-width: 768px) {
   .destination-hero {
     flex-direction: column;
     text-align: center;
+    height: auto; /* let it grow naturally on small screens */
   }
 
   .hero-text h1 {
@@ -32,7 +43,7 @@
 
   .hero-image img {
     max-width: 80%;
-    height:500px;
+    height: auto;
     object-fit: cover;
   }
 }
