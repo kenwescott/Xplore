@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import NavigationBar from './Components/NavigationBar';
 import Home from './Pages/Home';
 import Payment from './Pages/Payment';
-import Book from './Pages/Book';
+import Book from './Pages/Destination';
 import PaymentComplete from './Pages/PaymentComplete';
 
 function App() {
