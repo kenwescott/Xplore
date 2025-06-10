@@ -23,7 +23,7 @@ function DestinationCard({ imageUrl, title, price, description }) {
     <Card style={{ width: '18rem', minHeight: '26rem' }} className="m-3 shadow-sm">
       <Card.Img
         variant="top"
-        src={imageUrl}
+        src={`${process.env.PUBLIC_URL}/${imageUrl}`}
         style={{ height: '240px', objectFit: 'cover' }}
         alt={title}
       />

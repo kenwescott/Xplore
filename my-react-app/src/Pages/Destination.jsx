@@ -11,7 +11,7 @@ const allDestinations = [
     city: 'Paris',
     price: '$450',
     description: 'City of lights and love.',
-    imageUrl: '/images/paris.jpg'
+    imageUrl:'/images/paris.jpg'
   },
   {
     title: 'Tokyo',

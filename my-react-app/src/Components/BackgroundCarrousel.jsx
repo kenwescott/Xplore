@@ -8,7 +8,7 @@ function BackgroundCarousel() {
         <Carousel.Item>
           <img
             className="d-block w-100 carousel-image"
-            src={`${process.env.PUBLIC_URL}/images/slide1.webp`}
+            src={`${process.env.PUBLIC_URL}/images/slide4.jpg`}
             alt="Slide 1"
           />
         </Carousel.Item>
