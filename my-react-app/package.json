@@ -1,9 +1,7 @@
 {
-  "homepage": "https://kenwescott.github.io/Xplore",
+  "homepage": "/my-react-app",
   "name": "my-react-app",
   "version": "0.1.0",
-  "homepage": "/my-react-app",
-
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
@@ -48,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
